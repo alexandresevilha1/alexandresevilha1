@@ -15,5 +15,10 @@ Fala! Sou Alexandre
     <img align="center" alt="Ale-javascript" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Ale-jquery" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"/>
     <img align="center" alt="Ale-jquery" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
-          
-  </div>
+ </div>
+  
+  <div>
+    <img align="right" alt="Ale-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/149/149679.gif">
+ </div>
+  
+  
