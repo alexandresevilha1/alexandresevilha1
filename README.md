@@ -1,16 +1,19 @@
-### Hi there 👋
+Fala! Sou Alexandre
 
-<!--
-**alexandresevilha1/alexandresevilha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estudando para ser Dev Full-Stack<br>
+-Estudo pela DevMedia
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandresevilha1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresevilha1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <div>
+    <img align="center" alt="Ale-html" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+    <img align="center" alt="Ale-css" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+    <img align="center" alt="Ale-javascript" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Ale-jquery" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"/>
+    <img align="center" alt="Ale-jquery" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+          
+  </div>
