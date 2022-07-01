@@ -1,4 +1,4 @@
-Ola! eu sou alexandre<br>
+Ola! eu sou Alexandre<br>
 Estudando Front-end<br>
 Procurando primeira oportunidade de emprego<br>
 <div align="center">
