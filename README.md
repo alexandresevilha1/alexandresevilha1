@@ -1,24 +1,24 @@
-Fala! Sou Alexandre
-
--Estudando para ser Dev Full-Stack<br>
--Estudo pela DevMedia
-
+Ola! eu sou alexandre<br>
+Estudando Front-end<br>
+Procurando primeira oportunidade de emprego<br>
 <div align="center">
   <a href="https://github.com/alexandresevilha1">
-  <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api?username=alexandresevilha1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandresevilha1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresevilha1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Alex-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Alex-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Alex-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Alex-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div><br>
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------
   <div>
-    <img align="center" alt="Ale-html" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-    <img align="center" alt="Ale-css" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-    <img align="center" alt="Ale-javascript" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Ale-jquery" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"/>
-    <img align="center" alt="Ale-jquery" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
- </div>
+<a href = "mailto:alexandre.sevilha1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/alexandresevilha1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
   
-  <div>
-    <img align="right" alt="Ale-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/149/149679.gif">
- </div>
+<img align="right" alt="Alex-GIF" height="150" style="border-radius:50px;" src="https://c.tenor.com/sjTVlkK8U8IAAAAC/quiet-resolve-darks-souls.gif">
   
   
