@@ -1,4 +1,4 @@
-Procurando meu espaço no mercado da tecnologia, comecei a estudar programação e vi futuro na área. Quero focar nos estudos para me tornar um programador Full Stack, gosto de trabalhar com Typescript e React para Front-end, C# e .NET para Back-end e MySQL e SQL para banco de dados 
+Procurando meu espaço no mercado da tecnologia, comecei a estudar programação e vi futuro na área. Quero focar nos estudos para me tornar um desenvolvedor back-end, gosto de trabalhar com C# e .NET para Back-end e MySQL e SQL para banco de dados.
 <div align="center">
   <a href="https://github.com/alexandresevilha1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandresevilha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
